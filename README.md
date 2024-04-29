@@ -35,6 +35,7 @@ The Multi-Language Invoice Extractor leverages the advanced capabilities of Goog
     - `chromadb`: For managing data storage and retrieval.
     - `PyPDF2`: For PDF file handling and parsing.
 
+![Multi language Invoice Extractor](Screenshot.png)
 ## Installation
 
 1. **Clone the repository**:
